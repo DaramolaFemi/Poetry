@@ -40,4 +40,4 @@ This piece explores the tension between human creativity and the relentless mach
 > I compile the boy
 > back into the machine.
 
-*Daramola Femi &copy*
+*Daramola Femi 2026*
