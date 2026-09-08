@@ -31,9 +31,9 @@ This piece explores the tension between human creativity and the relentless mach
 > They grew louder each time
 > I mistook a stack trace for a prophecy.
 >
-> When my computer goes dark,
+> When my computer goes numb,
 > I send my body abroad
-> while my soul stays behind,
+> and my soul stays behind,
 > guarding the life I never chose.
 >
 > By morning,
