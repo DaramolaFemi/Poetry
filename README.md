@@ -34,9 +34,11 @@ through.
 > I mistook a stack trace for a prophecy.
 >
 > The boy slips into the night,
-> crossing borders daylight denied me.
+> crossing borders
+> daylight denied me.
 > He leaves his soul in the dirt,
-> guarding the bones of the life I never lived.
+> guarding the
+> bones of the life I never lived.
 >
 > By morning,
 > I compile the boy
