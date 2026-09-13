@@ -26,15 +26,17 @@ This piece explores the tension between human creativity and the relentless mach
 > Each commit buries another version of the boy I was.
 >
 > Every function I called
-> gave my demons new mouths to argue through.
+> Gave my
+> demons new mouths to argue
+through.
 >
 > They grew louder each time
 > I mistook a stack trace for a prophecy.
 >
-> When my computer goes numb,
-> I send my body abroad
-> and my soul stays behind,
-> guarding the life I never chose.
+> The boy slips into the night,
+> crossing borders daylight denied me.
+> He leaves his soul in the dirt,
+> guarding the bones of the life I never lived.
 >
 > By morning,
 > I compile the boy
